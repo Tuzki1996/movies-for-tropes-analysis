@@ -25,7 +25,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/TheBigLebowski
 https://tvtropes.org/pmwiki/pmwiki.php/Film/JurassicPark
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ForrestGump
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Heat
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TotalRecall
+https://tvtropes.org/pmwiki/pmwiki.php/Film/TotalRecall1990
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Fargo
 https://tvtropes.org/pmwiki/pmwiki.php/Film/AsGoodAsItGets
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TrueRomance
