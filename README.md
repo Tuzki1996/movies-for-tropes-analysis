@@ -12,7 +12,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Se7en
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheMatrix
 https://tvtropes.org/pmwiki/pmwiki.php/Film/FightClub
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheEnglishPatient
-https://tvtropes.org/pmwiki/pmwiki.php/Film/ToyStory2
+https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ToyStory2
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheTrumanShow
 https://tvtropes.org/pmwiki/pmwiki.php/Film/AmericanBeauty
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ReservoirDogs
