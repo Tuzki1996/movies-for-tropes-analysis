@@ -61,7 +61,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Hamlet
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BeingJohnMalkovich
 https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthParkBiggerLongerAndUncut
 https://tvtropes.org/pmwiki/pmwiki.php/Film/GroundhogDay
-https://tvtropes.org/pmwiki/pmwiki.php/Film/AbreLosOjos
+https://tvtropes.org/pmwiki/pmwiki.php/Film/VanillaSky
 https://tvtropes.org/pmwiki/pmwiki.php/Film/InTheLineOfFire
 https://tvtropes.org/pmwiki/pmwiki.php/Film/FallingDown
 https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheIronGiant
