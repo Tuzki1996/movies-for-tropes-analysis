@@ -79,7 +79,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Ronin
 https://tvtropes.org/pmwiki/pmwiki.php/Film/AnyGivenSunday
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Awakenings
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ShakespeareInLove
-https://tvtropes.org/pmwiki/pmwiki.php/Film/LosAmantesDelCírculoPolar
 https://tvtropes.org/pmwiki/pmwiki.php/Film/JerryMaguire
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BasicInstinct
 https://tvtropes.org/pmwiki/pmwiki.php/Film/StirOfEchoes
@@ -94,8 +93,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/SenseAndSensibility
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ABronxTale
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Mulan
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheBoondockSaints
-https://tvtropes.org/pmwiki/pmwiki.php/Film/NightOnEarth
-https://tvtropes.org/pmwiki/pmwiki.php/Film/ElDíaDeLaBestia
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Europa
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TodoSobreMiMadre
+https://tvtropes.org/pmwiki/pmwiki.php/Film/EuropaEuropa
+https://tvtropes.org/pmwiki/pmwiki.php/Film/AllAboutMyMother
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ThelmaAndLouise
