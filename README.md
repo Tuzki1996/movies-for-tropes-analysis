@@ -411,7 +411,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/TheExorcismOfEmilyRose
 https://tvtropes.org/pmwiki/pmwiki.php/Film/SkyHigh
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Köshpendiler
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Tamara
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TheZodiac
+https://tvtropes.org/pmwiki/pmwiki.php/Film/Zodiac
 https://tvtropes.org/pmwiki/pmwiki.php/Film/FunWithDickAndJane
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BandCamp
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ÆonFlux
@@ -468,7 +468,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/FlagsOfOurFathers
 https://tvtropes.org/pmwiki/pmwiki.php/Film/CrónicaDeUnaFuga
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Paris,JeTaime
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Crank
-https://tvtropes.org/pmwiki/pmwiki.php/Film/HappyFeet
+https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/HappyFeet
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHoliday
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHillsHaveEyes
 https://tvtropes.org/pmwiki/pmwiki.php/Film/FurAnImaginaryPortraitOfDianeArbus
@@ -616,7 +616,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/ElHombreDeAlLado
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ItsComplicated
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TakingWoodstock
 https://tvtropes.org/pmwiki/pmwiki.php/Film/AwayWeGo
-https://tvtropes.org/pmwiki/pmwiki.php/Film/ILoveYou,Man
+https://tvtropes.org/pmwiki/pmwiki.php/Film/ILoveYouMan
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Invictus
 https://tvtropes.org/pmwiki/pmwiki.php/Film/WhipIt
 https://tvtropes.org/pmwiki/pmwiki.php/Film/JulieAndJulia
@@ -638,6 +638,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/TheSoloist
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LaPivellina
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Nine
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Tetro
+https://tvtropes.org/pmwiki/pmwiki.php/Film/TwelveRounds
 
 ####2010
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Daybreakers
