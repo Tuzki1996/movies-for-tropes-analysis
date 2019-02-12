@@ -647,8 +647,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Nine
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Tetro
 
 ####2010
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Sweetgrass
-https://tvtropes.org/pmwiki/pmwiki.php/Film/GarbageDreams
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Daybreakers
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LeapYear
 https://tvtropes.org/pmwiki/pmwiki.php/Film/YouthInRevolt
@@ -673,16 +671,10 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/EdgeOfDarkness
 https://tvtropes.org/pmwiki/pmwiki.php/Film/WhenInRome
 https://tvtropes.org/pmwiki/pmwiki.php/Film/PreachersKid
 https://tvtropes.org/pmwiki/pmwiki.php/Film/SaintJohnOfLasVegas
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Nordwand
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Ajami
-https://tvtropes.org/pmwiki/pmwiki.php/Film/DearJohn
 https://tvtropes.org/pmwiki/pmwiki.php/Film/FromParisWithLove
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Frozen
-https://tvtropes.org/pmwiki/pmwiki.php/Film/SanSukSiGin
-https://tvtropes.org/pmwiki/pmwiki.php/Film/FrygteligLykkelig
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Banlieue13Ultimatum
-https://tvtropes.org/pmwiki/pmwiki.php/Film/EinayimPetukhoth
-https://tvtropes.org/pmwiki/pmwiki.php/Film/PercyJacksonAndTheOlympiansTheLightningThief
+https://tvtropes.org/pmwiki/pmwiki.php/Film/PercyJacksonAndTheOlympians
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ValentinesDay
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheWolfman
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MyNameIsKhan
@@ -696,7 +688,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/DerRoteBaron
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGoodGuy
 https://tvtropes.org/pmwiki/pmwiki.php/Film/CopOut
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheCrazies
-https://tvtropes.org/pmwiki/pmwiki.php/Film/UnProphète
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Defendor
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheYellowHandkerchief
 https://tvtropes.org/pmwiki/pmwiki.php/Film/FormosaBetrayed
@@ -728,7 +719,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/ClashOfTheTitans
 https://tvtropes.org/pmwiki/pmwiki.php/Film/WhyDidIGetMarriedToo?
 https://tvtropes.org/pmwiki/pmwiki.php/Film/DonMckay
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGreatest
-https://tvtropes.org/pmwiki/pmwiki.php/Film/YuehuiOMaiGa
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LettersToGod
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheDoorsWhenYoureStrange
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LaMission
