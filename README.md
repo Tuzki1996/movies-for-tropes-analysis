@@ -391,7 +391,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Hitch
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheDukesOfHazzard
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Stealth
 https://tvtropes.org/pmwiki/pmwiki.php/Film/InGoodCompany
-https://tvtropes.org/pmwiki/pmwiki.php/Film/PrideAndPrejudice
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Mr.AndMrs.Smith
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheSkeletonKey
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LordOfWar
@@ -404,13 +403,11 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Deepwater
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheBrothersGrimm
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Hercules
 https://tvtropes.org/pmwiki/pmwiki.php/Film/HardCandy
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Cursed
 https://tvtropes.org/pmwiki/pmwiki.php/Film/HerbieFullyLoaded
 https://tvtropes.org/pmwiki/pmwiki.php/Film/London
 https://tvtropes.org/pmwiki/pmwiki.php/Film/WeddingCrashers
 https://tvtropes.org/pmwiki/pmwiki.php/Film/NannyMcphee
 https://tvtropes.org/pmwiki/pmwiki.php/Film/AHistoryOfViolence
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TheNewWorld
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Sahara
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheExorcismOfEmilyRose
 https://tvtropes.org/pmwiki/pmwiki.php/Film/SkyHigh
