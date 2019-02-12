@@ -395,7 +395,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/PrideAndPrejudice
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Mr.AndMrs.Smith
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheSkeletonKey
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LordOfWar
-https://tvtropes.org/pmwiki/pmwiki.php/Film/BeCool
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheFog
 https://tvtropes.org/pmwiki/pmwiki.php/Film/JustFriends
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Brick
@@ -406,7 +405,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/TheBrothersGrimm
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Hercules
 https://tvtropes.org/pmwiki/pmwiki.php/Film/HardCandy
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Cursed
-https://tvtropes.org/pmwiki/pmwiki.php/Film/ZathuraASpaceAdventure
 https://tvtropes.org/pmwiki/pmwiki.php/Film/HerbieFullyLoaded
 https://tvtropes.org/pmwiki/pmwiki.php/Film/London
 https://tvtropes.org/pmwiki/pmwiki.php/Film/WeddingCrashers
@@ -1281,7 +1279,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/GetAJob
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Colossal
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheAccountant
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Masterminds
-https://tvtropes.org/pmwiki/pmwiki.php/Film/PrideAndPrejudiceAndZombies
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MidnightSpecial
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MissPeregrinesHomeForPeculiarChildren
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheShallows
