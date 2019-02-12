@@ -704,13 +704,9 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Kimjongilia
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheKillingJar
 https://tvtropes.org/pmwiki/pmwiki.php/Film/CityIsland
 https://tvtropes.org/pmwiki/pmwiki.php/Film/HotTubTimeMachine
-https://tvtropes.org/pmwiki/pmwiki.php/Film/HowToTrainYourDragon
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Chloe
-https://tvtropes.org/pmwiki/pmwiki.php/Film/WakingSleepingBeauty
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TheLastSong
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ClashOfTheTitans
 https://tvtropes.org/pmwiki/pmwiki.php/Film/WhyDidIGetMarriedToo?
-https://tvtropes.org/pmwiki/pmwiki.php/Film/DonMckay
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGreatest
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LettersToGod
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheDoorsWhenYoureStrange
@@ -786,8 +782,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/BornToBeWild
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheConspirator
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Rio
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Scream4
-https://tvtropes.org/pmwiki/pmwiki.php/Film/AtlasShruggedPartI
-https://tvtropes.org/pmwiki/pmwiki.php/Film/AfricanCats
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MadeasBigHappyFamily
 https://tvtropes.org/pmwiki/pmwiki.php/Film/WaterForElephants
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGreatestMovieEverSold
@@ -875,16 +869,13 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/FriendsWithKids
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Gambit
 https://tvtropes.org/pmwiki/pmwiki.php/Film/GangsterSquad
 https://tvtropes.org/pmwiki/pmwiki.php/Film/GhostRiderSpiritOfVengeance
-https://tvtropes.org/pmwiki/pmwiki.php/Film/GirlInProgress
 https://tvtropes.org/pmwiki/pmwiki.php/Film/GodBlessAmerica
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Gone
-https://tvtropes.org/pmwiki/pmwiki.php/Film/GoodDeeds
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGrey
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Haywire
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Hick
 https://tvtropes.org/pmwiki/pmwiki.php/Film/HopeSprings
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHungerGames
-https://tvtropes.org/pmwiki/pmwiki.php/Film/IceAgeContinentalDrift
 https://tvtropes.org/pmwiki/pmwiki.php/Film/JohnCarter
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Jeff,WhoLivesAtHome
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Journey2TheMysteriousIsland
@@ -1013,7 +1004,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Furious6
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHangoverPartIii
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BeforeMidnight
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LemaleEtHahalal
-https://tvtropes.org/pmwiki/pmwiki.php/Film/ChushenRuhua
 https://tvtropes.org/pmwiki/pmwiki.php/Film/AfterEarth
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheEast
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ThePurge
@@ -1086,8 +1076,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Visitors
 https://tvtropes.org/pmwiki/pmwiki.php/Film/EnemiesCloser
 https://tvtropes.org/pmwiki/pmwiki.php/Film/GimmeShelter
 https://tvtropes.org/pmwiki/pmwiki.php/Film/CharlieVictorRomeo
-https://tvtropes.org/pmwiki/pmwiki.php/Film/12OclockBoys
-https://tvtropes.org/pmwiki/pmwiki.php/Film/LaborDay
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TimsVermeer
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BrightestStar
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BestNightEver
