@@ -1120,7 +1120,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/SomewhereSlow
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ThatAwkwardMoment
 https://tvtropes.org/pmwiki/pmwiki.php/Film/AfternoonOfAFaunTanaquilLeClercq
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheMonumentsMen
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Cavemen
 https://tvtropes.org/pmwiki/pmwiki.php/Film/WelcomeToTheJungle
 https://tvtropes.org/pmwiki/pmwiki.php/Film/AFantasticFearOfEverything
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LeDernierDesInjustes
@@ -1320,7 +1319,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/GodsNotDead2
 https://tvtropes.org/pmwiki/pmwiki.php/Film/NaturalBornPranksters
 https://tvtropes.org/pmwiki/pmwiki.php/Film/WarDogs
 https://tvtropes.org/pmwiki/pmwiki.php/Film/DeepwaterHorizon
-https://tvtropes.org/pmwiki/pmwiki.php/Film/BarbershopTheNextCut
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheMagnificentSeven
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Keanu
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheBoy
@@ -1329,11 +1327,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/SwissArmyMan
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ResidentEvilTheFinalChapter
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheFinestHours
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Morgan
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TheDoOver
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Moana
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TheOtherSideOfTheDoor
-https://tvtropes.org/pmwiki/pmwiki.php/Film/KillCommand
-https://tvtropes.org/pmwiki/pmwiki.php/Film/13Hours
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheNiceGuys
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MikeAndDaveNeedWeddingDates
 https://tvtropes.org/pmwiki/pmwiki.php/Film/EverybodyWantsSome!!
@@ -1385,7 +1378,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/MaryShelley
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Mother!
 https://tvtropes.org/pmwiki/pmwiki.php/Film/OOrnitólogo
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheBeguiled
-https://tvtropes.org/pmwiki/pmwiki.php/Film/UmiYoriMoMadaFukaku
 https://tvtropes.org/pmwiki/pmwiki.php/Film/PersonalShopper
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGreatestShowman
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheLimehouseGolem
@@ -1394,19 +1386,9 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/AGhostStory
 https://tvtropes.org/pmwiki/pmwiki.php/Film/DarkestHour
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Downsizing
 https://tvtropes.org/pmwiki/pmwiki.php/Film/GoodbyeChristopherRobin
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TheCurrentWar
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TheMountainBetweenUs
 https://tvtropes.org/pmwiki/pmwiki.php/Film/GoodTime
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Hhhh
-https://tvtropes.org/pmwiki/pmwiki.php/Film/BeachRats
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Columbus
-https://tvtropes.org/pmwiki/pmwiki.php/Film/EnglandIsMine
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Thoroughbreds
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TheButterflyTree
-https://tvtropes.org/pmwiki/pmwiki.php/Film/ColdSkin
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Thelma
-https://tvtropes.org/pmwiki/pmwiki.php/Film/1922
-https://tvtropes.org/pmwiki/pmwiki.php/Film/FinalPortrait
 https://tvtropes.org/pmwiki/pmwiki.php/Film/GeraldsGame
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Brimstone
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LoganLucky
@@ -1452,7 +1434,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/VisagesVillages
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TeströlÉsLélekröl
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Marrowbone
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Paddington2
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Coco
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BeautyAndTheBeast
 
 ####2018
@@ -1461,15 +1442,9 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Aquaman
 https://tvtropes.org/pmwiki/pmwiki.php/Film/SoloAStarWarsStory
 https://tvtropes.org/pmwiki/pmwiki.php/Film/FantasticBeastsTheCrimesOfGrindelwald
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BlackPanther
-https://tvtropes.org/pmwiki/pmwiki.php/Film/FiftyShadesFreed
-https://tvtropes.org/pmwiki/pmwiki.php/Film/SpiderManIntoTheSpiderVerse
 https://tvtropes.org/pmwiki/pmwiki.php/Film/JurassicWorldFallenKingdom
 https://tvtropes.org/pmwiki/pmwiki.php/Film/AntManAndTheWasp
-https://tvtropes.org/pmwiki/pmwiki.php/Film/HotelTransylvania3SummerVacation
-https://tvtropes.org/pmwiki/pmwiki.php/Film/SherlockGnomes
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Bumblebee
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGrinch
-https://tvtropes.org/pmwiki/pmwiki.php/Film/RalphBreaksTheInternet
 https://tvtropes.org/pmwiki/pmwiki.php/Film/PacificRimUprising
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MazeRunnerTheDeathCure
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TombRaider
@@ -1479,7 +1454,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/ThePredator
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MaryPoppinsReturns
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheNutcrackerAndTheFourRealms
 https://tvtropes.org/pmwiki/pmwiki.php/Film/OceansEight
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Incredibles2
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MissionImpossibleFallout
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheEqualizer2
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Rampage
@@ -1488,10 +1462,8 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/EscapePlan2Hades
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheNun
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheFirstPurge
 https://tvtropes.org/pmwiki/pmwiki.php/Film/CreedIi
-https://tvtropes.org/pmwiki/pmwiki.php/Film/InsidiousTheLastKey
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Annihilation
 https://tvtropes.org/pmwiki/pmwiki.php/Film/SicarioDayOfTheSoldado
-https://tvtropes.org/pmwiki/pmwiki.php/Film/MammaMia!HereWeGoAgain
 https://tvtropes.org/pmwiki/pmwiki.php/Film/AWrinkleInTime
 https://tvtropes.org/pmwiki/pmwiki.php/Film/12Strong
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Halloween
